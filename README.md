@@ -12,5 +12,5 @@
 10- git merge #unir ramas
 11- git checkout #ir a cualquier rama
 12- git branch #ver todas las ramas
-
+13- git checkout master
 
