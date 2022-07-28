@@ -15,5 +15,7 @@
 13. git checkout master
 14. gir branch -d ramaheroes #borrar rama
 15. git push
+16. git commit -am #hacer los dos comandos de add y commit juntos
+
 
 
